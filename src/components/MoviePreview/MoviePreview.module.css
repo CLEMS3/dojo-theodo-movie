@@ -1,2 +1,26 @@
 .movieCard {
+    height: 20%;
+    width: 20%;
+    border : solid red;
+    background-color: grey;
+}
+.movieCard img{
+    width: 100%;
+}
+
+.movieCard p{
+    color : yellow;
+}
+
+
+.starItem{
+
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
 }
